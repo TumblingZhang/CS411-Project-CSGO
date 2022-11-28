@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "34.70.136.129",
   USER: "root",
-  PASSWORD: "123456",
+  PASSWORD: "yyds",
   DB: "csgo"
 };
